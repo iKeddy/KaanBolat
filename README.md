@@ -1,2 +1,2 @@
-<p align="center"># Hello 👋, I'm Kaan Bolat</p>
+# Hello 👋, I'm Kaan Bolat
 edited*
