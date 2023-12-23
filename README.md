@@ -8,7 +8,7 @@ Hello, I am Kaan Bolat, I graduated from Eastern Mediterranean University, Depar
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [okaanbolat@icloud.com](mailto:okaanbolat@icloud.com)
-* 🚀  I'm currently working on [Siren Bilişim&Yazılım](http://(s)://www.sirenbilisim.com.tr)
+* 🚀  I'm currently working on [Siren Bilişim&Yazılım](https://www.sirenbilisim.com.tr)
 * 🧠  I'm learning react, flutter, vueJS
 * 🤝  I'm open to collaborating on any angular and .net projects
 
